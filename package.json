@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/node-girls/express-workshop.git"
+    "url": "git+https://github.com/wensug/node-girls-workshop"
   },
   "author": "Wendy Gonzalez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/node-girls/express-workshop/issues"
+    "url": "https://github.com/wensug/node-girls-workshop"
   },
-  "homepage": "https://github.com/node-girls/express-workshop#readme",
+  "homepage": "https://github.com/wensug/node-girls-workshop",
   "dependencies": {
     "express": "^4.17.1",
     "express-formidable": "^1.2.0",
